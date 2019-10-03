@@ -1,0 +1,8 @@
+.feed_bar{
+    display: flex
+}
+
+.feed_icons{
+    display: flex;
+    text-align: center;
+}

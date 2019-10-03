@@ -1,0 +1,17 @@
+.logo{
+    float:right;
+    height: 60px;
+    width: 90px;
+}
+
+.home_icons{
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 10%;
+    text-align: center;
+}
+
+.home_bar{
+    display: flex;
+}
